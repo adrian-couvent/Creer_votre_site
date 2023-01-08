@@ -32,4 +32,13 @@ Pour cette partie, l'idée est de réaliser quelque chose de simple. Dans un pre
 
 Plusieurs approche sont possible:
 1. La première simple mais pour les avertis: modifier le code brut en html dans le fichier: index.html de votre dépôt.
-2. La seconde utiliser un éditeur de page web nommé BlueGriffon. La version gratuite est permet déjà de réaliser des modifications simple.
+2. La seconde utiliser un éditeur de page web nommé [BlueGriffon](http://www.bluegriffon.org/). La version gratuite permet déjà de réaliser des modifications simple.
+
+Voilà maintenant vous pouvez réaliser un site dédié à votre projet. 
+
+Pour rappel sur site, on s'attend à trouver:
+1. Une description du projet
+2. Une description de votre équipe
+3. Des liens vers votre dépôt github pour les différents documents
+
+Ne tiens qu'à vous d'ajouter encore plus de choses!
