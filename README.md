@@ -27,3 +27,9 @@ Maintenant vous allez y ajouter un site dont le design est issu du site: [https:
 Décompressez le design qui vous plaît dans le dépôt local sur votre ordinateur puis décompressez le.
 
 ### Modifier le design choisi
+
+Pour cette partie, l'idée est de réaliser quelque chose de simple. Dans un premier temps vous allez juste modifier les éléments existants.
+
+Plusieurs approche sont possible:
+1. La première simple mais pour les avertis: modifier le code brut en html dans le fichier: index.html de votre dépôt.
+2. La seconde utiliser un éditeur de page web nommé BlueGriffon. La version gratuite est permet déjà de réaliser des modifications simple.
