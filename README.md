@@ -16,6 +16,14 @@ Si différentes technologie de server web existent nous allons faire simple en u
 
 ### Créer votre site web avec Github:
 
-Pour cela rien de plus simple. Vous créez une nouveau projet sur votre dépôt Github. Juste faites attentioon votre projet doit se nommer: **username.github.io**
+Pour cela rien de plus simple. Vous créez une nouveau projet sur votre dépôt Github. Juste faites attention **votre projet doit se nommer: username.github.io**
 
 ![Exemple du projet à créer pour une page web github](https://cdn.kastatic.org/ka-perseus-images/c6725e26e2668e6072d0905232e28dc24e34c069.png)
+
+Une fois votre projet créé, clonez le sur votre ordinateur comme lors de [notre premier TP](https://github.com/jmtrivial/tp-git).
+
+Maintenant vous allez y ajouter un site dont le design est issu du site: [https://html5up.net/](https://html5up.net/)
+
+Décompressez le design qui vous plaît dans le dépôt local sur votre ordinateur puis décompressez le.
+
+### Modifier le design choisi
