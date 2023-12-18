@@ -6,9 +6,10 @@ Première question: Avez vous vos ordinateurs?
 
 Pour cela on va réaliser une carte mentale en rapport avec un site web (son objectif par rapport au projet, par rapport au financeur, ses fonctions) (**-> 10-15 minutes**)
 
-Bien comprendre la différence entre GitHub et un site web (**-> 20-25 minutes d'échanges**)\n
-|-> Réflexion en groupe sur ce que permet GitHub qu'un site ne permet pas\n
-|-> Inversement ce qu'une site permet et que GitHub ne permet pas\n
+Bien comprendre la différence entre GitHub et un site web (**-> 20-25 minutes d'échanges**)
+- Réflexion en groupe sur ce que permet GitHub qu'un site ne permet pas
+- Inversement ce qu'un site permet et que GitHub ne permet pas
+
 
 Echange et obtention d'une liste de différnece entre GitHub et Site web
 
