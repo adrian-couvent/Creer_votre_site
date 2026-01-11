@@ -7,14 +7,15 @@ Première question: Avez vous vos ordinateurs?
 Pour cela on va réaliser une carte mentale en rapport avec un site web (son objectif par rapport au projet, par rapport au financeur, ses fonctions) (**-> 10-15 minutes**)
 
 Bien comprendre la différence entre GitHub et un site web (**-> 20-25 minutes d'échanges**)
+
 - Réflexion en groupe sur ce que permet GitHub qu'un site ne permet pas
 - Inversement ce qu'un site permet et que GitHub ne permet pas
-
 
 Echange et obtention d'une liste de différnece entre GitHub et Site web
 
 Conclusion: (**10 minutes**)
-- Le site permet de partager de l'information aux personnes totalement extérieur au projet. Ces informations ne seront pas technique mais une vulgarisation. Au même titre qu'en entreprises, il est intéressant d'y présenter: les objectifs du projets, l'équipe, les dernières réalisations et le plus important la possibilité de vous contacter. 
+
+- Le site permet de partager de l'information aux personnes totalement extérieur au projet. Ces informations ne seront pas technique mais une vulgarisation. Au même titre qu'en entreprises, il est intéressant d'y présenter: les objectifs du projets, l'équipe, les dernières réalisations et le plus important la possibilité de vous contacter.
 - Pour un projet, l'utilisation d'un site est donc un bon moyen pour: mettre en avant les différents développement réalisés et renseigner des indicateurs permettant de juger de vos résultats (nommé KPI).
 - GitHub est l'allier idéal pour un partage des informations techniques relative au projet mais ce n'est pas celle-ci que vous présenterez "au public" en général.
 - Par contre votre site doit s'appuyer sur GitHub permettant ainsi de mettre vos travaux en valeurs et de montrer l'avancement de votre projet. Si Github est un indispensable technique pour le partage de code, la remonter d'erreur et la réalisation de test unitaire. Un site web "vitrine" est une quasi obligation quelque soit votre projet avec ou sans nécessité technique. Un site web est comme un local ouvert sur le monde entier, pour vous faire connaître c'est un outils nécessaire.
@@ -47,15 +48,56 @@ Décompressez le design qui vous plaît dans le dépôt local sur votre ordinate
 
 ### Modifier le design choisi
 
-Pour cette partie, l'idée est de réaliser quelque chose de simple. Dans un premier temps vous allez juste modifier les éléments existants.
+#### Utiliser VS Code + Live Server pour créer votre site GitHub
 
-Plusieurs approche sont possible:
-1. La première simple mais pour les avertis: modifier le code brut en html dans le fichier: index.html de votre dépôt.
-2. La seconde utiliser un éditeur de page web nommé [BlueGriffon](http://www.bluegriffon.org/). La version gratuite permet déjà de réaliser des modifications simple.
+Visual Studio Code (VS Code) est l’éditeur que nous utilisons pour modifier les fichiers de notre site web.  
+L’extension **Live Server** permet d’afficher le site dans un navigateur web avec une mise à jour automatique à chaque sauvegarde.
 
-Voilà maintenant vous pouvez réaliser un site dédié à votre projet. 
+##### Principe
+
+- VS Code sert à **écrire et modifier** les fichiers du site (HTML, CSS, images, etc.).
+- Live Server sert à **voir le rendu réel du site** dans un navigateur, comme s’il était déjà en ligne.
+- À chaque sauvegarde, la page se recharge automatiquement.
+
+Cela permet de travailler de manière **visuelle (WYSIWYG)** tout en gardant un code propre et compatible avec GitHub Pages.
+
+---
+
+##### Mise en place
+
+1. Installer **Visual Studio Code**  
+  https://code.visualstudio.com
+  
+2. Installer l’extension **Live Server**
+  
+  - Ouvrir l’onglet Extensions dans VS Code
+  - Rechercher *Live Server*
+  - Cliquer sur Installer
+3. Ouvrir le dossier du site dans VS Code
+  
+4. Ouvrir le fichier `index.html`
+  
+5. Clic droit → **Open with Live Server**
+  
+
+Le site s’ouvre alors dans votre navigateur (exemple : `http://127.0.0.1:5500`) et se met à jour automatiquement.
+
+---
+
+##### Pourquoi c’est idéal avec GitHub Pages
+
+- Le site affiché avec Live Server est **exactement le même** que celui publié sur GitHub Pages.
+- Vous pouvez :
+  - Modifier le contenu
+  - Vérifier le rendu
+  - Puis publier avec `git push`
+
+VS Code + Live Server permet donc de travailler **localement, visuellement et proprement** avant de publier votre site en ligne.
+
+Voilà maintenant vous pouvez réaliser un site dédié à votre projet.
 
 Pour rappel sur site, on s'attend à trouver:
+
 1. Une description du projet
 2. Une description de votre équipe
 3. Des liens vers votre dépôt github pour les différents documents
