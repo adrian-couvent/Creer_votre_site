@@ -2,7 +2,7 @@
 
 Première question: Avez vous vos ordinateurs?
 
-## Pourquoi un site web quand on GitHub
+## Pourquoi un site web quand on a GitHub
 
 Pour cela on va réaliser une carte mentale en rapport avec un site web (son objectif par rapport au projet, par rapport au financeur, ses fonctions) (**-> 10-15 minutes**)
 
